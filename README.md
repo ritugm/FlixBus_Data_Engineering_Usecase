@@ -42,6 +42,6 @@ The following libraries were used in this project:
 
 1. Clone this repository to your local machine.
 2. Run the program by executing the index.py file from the **version1** directory (`cd version1`, `python index.py`)
-3. The program will output the results in these 3 files under the version1/Results_Data directory - *flixbus_tweets_lastweek.json*, *extracted_tweet_data.json*, *per_user_statistics.json*.
-4. The program will also output all the logs to the *logs.txt* file under the version1 directory.
-5. The program will also output a few calculated metrics such as *most active day during the last week*, *total number of tweets with at least three hashtags*, and *maximum number of tweets per user* directly to the console.
+3. The program will output the results in these 3 files under the **version1/Results_Data** directory - *flixbus_tweets_lastweek.json*, *extracted_tweet_data.json*, *per_user_statistics.json*.
+4. The program will also output all the logs to the *logs.txt* file under the **version1** directory.
+5. The program will also output a few calculated metrics such as *most active day during the last week*, *total number of tweets with at least three hashtags*, and *maximum number of tweets per user* directly to the **console**.
